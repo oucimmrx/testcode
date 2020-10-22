@@ -1,2 +1,7 @@
-# testcode
-The purpose of this project is to provide a boilerplate program in many languages with instructions on how to execute them. The hope is that it will help to test your environment to ensure that each of these languages are working.
+# Purpose
+The purpose of this project is to provide a boilerplate programs in many languages with instructions on how to execute them as well as examples for frequently used tools
+
+## Docs
+Please view the README.md files in each of the subfolders in the project for explainations about what is contained in those subfolders
+
+[Tools ReadMe](./tools/README.md)
