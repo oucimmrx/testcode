@@ -4,4 +4,6 @@ The purpose of this project is to provide a boilerplate programs in many languag
 ## Docs
 Please view the README.md files in each of the subfolders in the project for explainations about what is contained in those subfolders
 
-[Tools ReadMe](./tools/README.md)
+[Languages Documentation](./languages)  
+
+[Tools Documentation](./tools)  
