@@ -1,13 +1,11 @@
-# spark
-https://spark.apache.org/
-
-# requires
-data
+# Node
+https://nodejs.org/
 
 # To run the code
 open the terminal and execute the following commands
-> sbt clean package  
-sbt run
+> node app.js
 
 sample output
-> output
+> Server running at http://127.0.0.1:3000/
+
+browse to the url listed in the output and you should see the web page  

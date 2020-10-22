@@ -1,13 +1,10 @@
-# spark
-https://spark.apache.org/
-
-# requires
-data
+# Go
+https://golang.org/
 
 # To run the code
 open the terminal and execute the following commands
-> sbt clean package  
-sbt run
+> go build app.go  
+./app 
 
 sample output
-> output
+> hello world

@@ -1,13 +1,9 @@
-# spark
-https://spark.apache.org/
-
-# requires
-data
+# .Net Core
+https://docs.microsoft.com/en-us/dotnet/core/introduction
 
 # To run the code
 open the terminal and execute the following commands
-> sbt clean package  
-sbt run
+> dotnet run
 
 sample output
-> output
+> Hello World!
