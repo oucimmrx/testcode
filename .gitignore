@@ -1,0 +1,15 @@
+/.vscode
+/spark/project
+/spark/target
+/sbt/project
+/sbt/target
+/sbt/.bsp
+/scala/Maps.class
+/scala/Maps$.class
+/python/env
+/python/config
+/python/db.sqlite3
+/python/manage.py
+/go/app
+/dotnet/bin
+/dotnet/obj
