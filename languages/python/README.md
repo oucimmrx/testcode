@@ -18,7 +18,7 @@ pip3 install -r requirements.txt
 rm -fr config
 rm -f manage.py  
 django-admin startproject config .  
-python3 manage.py runserver  
+python3 manage.py runserver localhost:8000  
 
 sample output
 > October 21, 2020 - 22:58:39  
